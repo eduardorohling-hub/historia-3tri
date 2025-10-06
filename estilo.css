@@ -1,6 +1,10 @@
-body{ background-color:rgb(243, 194, 255);
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+body{ 
+    background-color:rgb(243, 194, 255);
     color:rgb(86, 11, 86)
-    
+    font-familfont-family: "DM Serif Display", serif;
+
 
 
 }
