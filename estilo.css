@@ -9,6 +9,7 @@ body{
     align-items: center;
     height: 800px; 
     margin: 0;
+    font-size: 18px;
 }
 button{
     background-color: aliceblue;
@@ -22,4 +23,10 @@ main{
 .img01{
     width: 75%;
            
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
 }
